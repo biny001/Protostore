@@ -1,0 +1,29 @@
+NEXT_PUBLIC_APP_NAME = "Prostore"
+NEXT_PUBLIC_APP_DESCRIPTION = "A modern ecommerce store built with Next.js"
+NEXT_PUBLIC_SERVER_URL = "http://localhost:3000"
+
+DATABASE_URL=""
+
+NEXTAUTH_SECRET=""
+NEXTAUTH_URL=http://localhost:3000
+NEXTAUTH_URL_INTERNAL=http://localhost:3000
+
+PAYMENT_METHODS="Stripe, CashOnDelivery"
+DEFAULT_PAYMENT_METHOD="Stripe"
+
+PAYPAL_API_URL="https://api-m.sandbox.paypal.com"
+PAYPAL_CLIENT_ID=""
+PAYPAL_APP_SECRET=""
+
+UPLOADTHING_TOKEN=''
+UPLOADTHING_SECRET=""
+UPLOADTHING_APPID=""
+
+NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=""
+STRIPE_SECRET_KEY=""
+STRIPE_WEBHOOK_SECRET=""
+
+RESEND_API_KEY=""
+SENDER_EMAIL="onboarding@resend.dev"
+
+ENCRYPTION_KEY="your-secret-encryption-key-here"
